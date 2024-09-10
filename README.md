@@ -6,7 +6,7 @@
   <em>
     Master of Artifical Intelligence Student at <a href="https://www.fau.de">Friedrich Alexander University</a>
     </br>
-    Mobile Application Developer With Flutter And Dart 🇩🇪
+    Senior Flutter Engineer 🇩🇪
   </em>
 </p>
 
