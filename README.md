@@ -28,9 +28,10 @@
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
   <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>
   <img src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
-  <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"" alt="Adobe XD" />
-  <img src="https://img.icons8.com/color/48/000000/jira.png"" alt="Jira" />
+  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go lang" />
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"" alt="Figma" />
+  <img src="https://img.icons8.com/color/48/000000/kotlin.png"" alt="Kotlin" />
+
 
 </p>
 
